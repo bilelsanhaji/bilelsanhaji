@@ -12,7 +12,7 @@ Maître de conférences (HDR) en économie — Université Paris 8, Laboratoire 
 
 ## Enseignement
 
-Cours de Master (Monnaie, Banque, Finance, Assurance — Université Paris 8, et M2 MASERATI — UPEC) :
+Cours de Master (Monnaie, Banque, Finance, Assurance — Université Paris 8, et M2 MASERATI — UPEC) disponibles ici :
 
 - [**Cours-Series-Temporelles**](https://github.com/bilelsanhaji/Cours-Series-Temporelles) — Économétrie des séries temporelles (M1)
 - [**Cours-Econometrie-Financiere**](https://github.com/bilelsanhaji/Cours-Econometrie-Financiere) — Économétrie financière : ARCH/GARCH univariés et multivariés (M2)
