@@ -21,4 +21,5 @@ Cours de Master (Monnaie, Banque, Finance, Assurance — Université Paris 8, et
 
 ## Contact
 
-📧 [bilel.sanhaji@univ-paris8.fr](mailto:bilel.sanhaji@univ-paris8.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/bilel-sanhaji-1a852282/)
+📧 [bilel.sanhaji@univ-paris8.fr](mailto:bilel.sanhaji@univ-paris8.fr) · 💼 [LinkedIn](https://www.linkedin.com/in/bilel-sanhaji-1a852282/) ·👟 [Strava](https://www.strava.com/athletes/46206565)
+
