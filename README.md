@@ -16,7 +16,7 @@ Cours de Master (Monnaie, Banque, Finance, Assurance — Université Paris 8, et
 
 - [**Cours-Series-Temporelles**](https://github.com/bilelsanhaji/Cours-Series-Temporelles) — Économétrie des séries temporelles (M1)
 - [**Cours-Econometrie-Financiere**](https://github.com/bilelsanhaji/Cours-Econometrie-Financiere) — Économétrie financière : ARCH/GARCH univariés et multivariés (M2)
-- [**Cours-Crypto-Fintech**](https://github.com/bilelsanhaji/Cours-Crypto-Fintech) — Cryptomonnaies et Fintech (M1)
+- [**Cours-Crypto-Fintech**](https://github.com/bilelsanhaji/Cours-Crypto-Fintech) — Cryptomonnaies et Fintech (M2)
 - [**Cours-Python**](https://github.com/bilelsanhaji/Cours-Python) — Python (M1)
 
 ## Contact
